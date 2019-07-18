@@ -1,7 +1,7 @@
 # Kmeans-Based-on-ECT-Distances
 
 ### Abstract
-[This work](https://perso.uclouvain.be/michel.verleysen/papers/esann05ly.pdf) proposes a simple way to improve a clustering algorithm. The idea is to exploit a new distance metric called the "Euclidian Commute Time" (ECT) distance, based on a random walk model on a graph derived from the data. Using this distance measure instead of the usual Euclidean distance in a k-means algorithm allows to retrieve well- separated clusters of arbitrary shape, without working hypothesis about their data distribution. Experimental results show that the use of this new distance measure significantly improves the quality of the clustering on the tested data sets. This project is an implementation of this technique.
+[This work](https://perso.uclouvain.be/michel.verleysen/papers/esann05ly.pdf) proposes a simple way to improve a clustering algorithm. The idea is to exploit a new distance metric called the "Euclidian Commute Time" (ECT) distance, based on a random walk model on a graph derived from the data. Using this distance measure instead of the usual Euclidean distance in a k-means algorithm allows to retrieve well separated clusters of arbitrary shape, without working hypothesis about their data distribution. Experimental results show that the use of this new distance measure significantly improves the quality of the clustering on the tested data sets. This project is an implementation of this technique.
 
 #### To use this work on your researches or projects you need:
 * Python 3.7.0
