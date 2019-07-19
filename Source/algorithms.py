@@ -1,6 +1,6 @@
 from sklearn.cluster import KMeans, AgglomerativeClustering
 from sklearn.metrics.cluster import normalized_mutual_info_score as nmi
-from source import ectkmeans
+from Source import ectkmeans
 
 
 def run_ectkmeans(data, labels):

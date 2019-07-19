@@ -1,8 +1,8 @@
 import matplotlib.pyplot as figure
 
-from source.algorithms import *
-from source.utility import load_dataset
-from source.config import COLOR, K
+from Source.algorithms import *
+from Source.utility import load_dataset
+from Source.config import COLOR, K
 
 
 def plot_dataset(data, labels):

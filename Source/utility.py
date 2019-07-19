@@ -2,7 +2,7 @@ import numpy as np
 import pandas
 
 from sklearn.datasets import make_circles, make_moons
-from source.config import DATA
+from Source.config import DATA
 
 
 def load_dataset():

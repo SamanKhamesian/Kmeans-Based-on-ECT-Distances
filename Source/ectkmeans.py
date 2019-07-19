@@ -5,7 +5,7 @@ import numpy as np
 import pykov
 import random
 
-from source.config import K, EPS, LIMIT
+from Source.config import K, EPS, LIMIT
 
 
 def euclidean_distance(x, y):
